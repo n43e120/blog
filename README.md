@@ -3,21 +3,23 @@
 ## Basic Info
 
 > Name: WANG, Zhong
-> Sex: Male
+>
 > Birth Date: 1981
-> Race: Chinese
+>
 > Location: Qingdao, China
+>
+> Race: Chinese
+>
 > Language: Chinese(Mandarin);English;Deutsch;Japanese;French
-> Profession: Software Engineer/Coder/.NET
-> Gender: Cis-gender
-> Marriage: Bachelor
+>
+> Profession: Coder
+>
 
 ## Major Milestones
 
-- ~year 2001 proven math problem of [**Goldbach's Conjecture**](GoldbachsConjectureReview2018en.pdf), register a web Domain [n43e120.com](n43e120.com) write a website to published the its paper.*1
+- ~year 2001 proved [**Goldbach's Conjecture**][1]
 - ~year 2010 acquired a paper of **college degree diploma**.
-- ~year 2014/10 applied a Chinese patent of [**201410529630.8 实现网络化远程插件的方法及系统**](201410529630.8text.pdf).
-- ~year 2017 published a web app [**German Lexicology Dictionary (unavailable right now)**](http://www.n43e120.com) which a project began date back at year 2008.
+- ~year 2014/10 applied a Chinese patent of [**201410529630.8 实现网络化远程插件的方法及系统**][2].
 - ~year 2018/04 published a open-source project [**Mouse Macro**](https://github.com/n43e120/MouseMacro) on GitHub.
 
 ## Policy
@@ -165,22 +167,20 @@ If that move doesn't move today, that must means I have more moves to consider. 
 >
 > Do not play fire, that backfire will eventually kill you.
 
- 2018/08/23
 
-## What if I were free on finance one day?
-
-* a global voyage maybe
 
 ## Follow me
 
 * weibo.com [@123aser](https://weibo.com/123aser/home?topnav=1&wvr=6)
 * youku.com [123aser123](http://i.youku.com/i/UMTY1NzU0ODIw)
 * bilibili.com [123aser](https://space.bilibili.com/174920575/#/)
-* SteamID [123aser]
+* Steam ID 123aser
 
 ## Official Contact
 email: n43e120@163.com
 
-## Evidences
-[PDF Reviewing My Work of Proving of Goldbach's Conjecture](GoldbachsConjectureReview2018en.pdf)
-[PDF patent paper](201410529630.8text.pdf)
+## References
+
+[1]: MemoirGC.pdf	"Book Memoir of Goldbach Conjecture"
+
+[2]: 201410529630.8text.pdf	"201410529630.8 实现网络化远程插件的方法及系统"
