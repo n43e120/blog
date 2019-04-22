@@ -4,7 +4,7 @@
 
 > Name: WANG, Zhong
 >
-> Birth Date: 1981
+> Birth Date: 1981/10/18
 >
 > Location: Qingdao, China
 >
@@ -17,7 +17,7 @@
 
 ## Major Milestones
 
-- ~year 2001 proved [**Goldbach's Conjecture**][1]
+- ~year 2001/09 proved [**Goldbach's Conjecture**][1]
 - ~year 2010 acquired a paper of **college degree diploma**.
 - ~year 2014/10 applied a Chinese patent of [**201410529630.8 实现网络化远程插件的方法及系统**][2].
 - ~year 2018/04 published a open-source project [**Mouse Macro**](https://github.com/n43e120/MouseMacro) on GitHub.
@@ -169,15 +169,19 @@ If that move doesn't move today, that must means I have more moves to consider. 
 
 
 
-## Follow me
+## Follow Me on Social Network
 
+* twitter.com [@n43e1201](https://twitter.com/n43e1201)
 * weibo.com [@123aser](https://weibo.com/123aser/home?topnav=1&wvr=6)
 * youku.com [123aser123](http://i.youku.com/i/UMTY1NzU0ODIw)
 * bilibili.com [123aser](https://space.bilibili.com/174920575/#/)
 * Steam ID 123aser
 
-## Official Contact
+## Official Business Contact
 email: n43e120@163.com
+
+## Sponsor or Donate me:
+Alipay : n43e120@163.com
 
 ## References
 
